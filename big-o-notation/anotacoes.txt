@@ -1,0 +1,23 @@
+- Big O - Ômicron
+- Notação em Big O
+- Space Complexity / Time Complexity
+
+- Medição abstrata da ordem de crescimento de um algoritmo conforme a entrada aumenta
+    - Tempo de execução
+    - Espaço
+
+- Análise Assintótica
+
+- RECEITA:
+
+1. Somar cada passo do algoritmo
+2. Ignorar as constantes
+3. Ignorar os fatores multiplicativos
+
+O(1) - constante
+O(log n) - logarítmica
+O(n) - linear
+O(n log n) - log linear
+O(n^2) - quadrático
+O(2^n) - exponencial
+
